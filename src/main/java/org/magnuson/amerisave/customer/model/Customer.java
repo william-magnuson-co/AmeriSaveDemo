@@ -5,10 +5,12 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-@Entity
 /**
  * Customer Entity: Represents a Customer.
+ *
+ * TODO: Document class methods.
  */
+@Entity
 public class Customer {
 
     @Id
